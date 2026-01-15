@@ -1,7 +1,5 @@
 Game Design Document(GDD)
-Alunos:
-João Vitor Dias Seigarro
-João Vitor Moutella Lopes
+
 
 
 1- nome do projeto: Descensus
